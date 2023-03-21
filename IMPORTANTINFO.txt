@@ -1,4 +1,4 @@
-#Welcome to LIFELINE
+Welcome to LIFELINE
 
 Title Screen:
     To start the game, click anywhere on the window.
